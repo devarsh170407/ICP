@@ -1,1 +1,1 @@
-# ICP
+# ICP lab manual programs
